@@ -4,8 +4,8 @@
 		"Fo Guang Library", "Ghost Mountain", "Grand Temple", "Great Mosque", "Hub Work Camp", "Longhouse", "Mormon Monument",
 		"Mosque", "Plastics Reprocessor", "Salvage Army Depot", "Salvage Exchange", "Slaver Guild"],
 	"constants": {
-		"minimalCityDistance": 4,
-		"minimalCityDistanceOnDifferentContinents": 4,
+		"minimalCityDistance": 2,
+		"minimalCityDistanceOnDifferentContinents": 2,
 		"ancientRuinCountMultiplier": 0.04,
 		"religionLimitBase": 0,
 		"religionLimitMultiplier": 1,
